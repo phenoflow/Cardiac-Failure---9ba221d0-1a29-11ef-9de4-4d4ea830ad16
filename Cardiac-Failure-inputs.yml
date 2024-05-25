@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/heartrenal-cardiac-failure---primary.py
+inputModule3:
+  class: File
+  path: python/cardiac-failure-third---primary.py
+inputModule4:
+  class: File
+  path: python/cardiac-failure-referred---primary.py
+inputModule5:
+  class: File
+  path: python/cardiac-failure-dissent---primary.py
+inputModule6:
+  class: File
+  path: python/diastolic-cardiac-failure---primary.py
+inputModule7:
+  class: File
+  path: python/cardiac-failure-declined---primary.py
+inputModule8:
+  class: File
+  path: python/cardiac-failure-first---primary.py
+inputModule9:
+  class: File
+  path: python/cardiac-failure-administration---primary.py
+inputModule10:
+  class: File
+  path: python/cardiomyopathy-cardiac-failure---primary.py
+inputModule11:
+  class: File
+  path: python/right-cardiac-failure---primary.py
+inputModule12:
+  class: File
+  path: python/cardiac---primary.py
+inputModule13:
+  class: File
+  path: python/chronic-cardiac-failure---primary.py
+inputModule14:
+  class: File
+  path: python/cardiac-failure-discharge---primary.py
+inputModule15:
+  class: File
+  path: python/cardiac-failure-practice---primary.py
+inputModule16:
+  class: File
+  path: python/ventricular-cardiac-failure---primary.py
+inputModule17:
+  class: File
+  path: python/systolic-cardiac-failure---primary.py
+inputModule18:
+  class: File
+  path: python/cardiac-failure-assoc---primary.py
+inputModule19:
+  class: File
+  path: python/cardiac-failure-shows---primary.py
+inputModule20:
+  class: File
+  path: python/cardiac-failure---primary.py
+inputModule21:
+  class: File
+  path: python/cardiac-failure-telephone---primary.py
+inputModule22:
+  class: File
+  path: python/cardiac-failure-reporting---primary.py
+inputModule23:
+  class: File
+  path: python/acute-cardiac-failure---primary.py
+inputModule24:
+  class: File
+  path: python/cardiac-failure-pulmonale---primary.py
+inputModule25:
+  class: File
+  path: python/cardiac-failure-second---primary.py
+inputModule26:
+  class: File
+  path: python/congestive-cardiac-failure---primary.py
+inputModule27:
+  class: File
+  path: python/cardiac-failure-attend---primary.py
+inputModule28:
+  class: File
+  path: python/cardiac-failure-programme---primary.py
+inputModule29:
+  class: File
+  path: python/cardiac-failure-excepted---primary.py
+inputModule30:
+  class: File
+  path: python/cardiac-failure-verbal---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
